@@ -1,0 +1,1 @@
+timestamp,sim_time_s,mission_phase,rpm,load,cooling_efficiency,cht,expected_cht,residual,engine_health_index,health_status,oil_temperature,oil_pressure,fuel_flow,vibration,fault_type
